@@ -1,0 +1,10 @@
+From: [hr@company-example.invalid](mailto:hr@company-example.invalid)
+
+Subject: Interview Schedule Confirmation
+
+Dear Candidate,
+
+Thank you for applying for the position. Your interview is scheduled for Monday at 10:00 AM. Please reply to this email if you need to reschedule.
+
+Regards,
+HR Team
