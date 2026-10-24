@@ -1,0 +1,55 @@
+# Phishing Email Detection – Comparison Report
+
+## Project
+
+Future Interns – Cyber Security Internship
+
+## Objective
+
+To identify phishing indicators and compare two fictional email samples.
+
+## Sample 1: Bank Account Warning
+
+**Classification:** Suspected Phishing
+
+### Indicators
+
+* Urgent language pressures the recipient to act quickly.
+* The threat of account suspension may frighten the recipient.
+* The email asks the recipient to verify an account using a link.
+* The sender's identity has not been independently verified.
+
+### Potential Risk
+
+The recipient may visit a fake login page and disclose sensitive information.
+
+### Recommendation
+
+Do not click the link. Verify bank alerts through the official bank app or website.
+
+## Sample 2: Interview Schedule
+
+**Classification:** No obvious phishing indicators in the provided text.
+
+### Observations
+
+* The email provides interview scheduling information.
+* It does not request passwords or banking details.
+* No link is included in the sample.
+* The sender's identity has not been independently verified.
+
+### Recommendation
+
+If uncertain, verify the interview details through the company's official recruitment channel.
+
+## Conclusion
+
+The first sample contains several phishing indicators. The second sample has no obvious phishing indicators in the provided text. However, text alone cannot prove that an email is genuine.
+
+## Scope and Limitations
+
+Both samples are fictional and created for educational practice. No real emails, links, accounts, or systems were tested.
+
+## Status
+
+Practice analysis completed.
