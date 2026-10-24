@@ -1,0 +1,11 @@
+From:security@bank-example.invalid
+Subject: URGENT! Your bank account will be blocked today.
+
+Dear Customer,
+
+Your account will be suspended within 24 hours. Click the link below immediately to verify your account and avoid suspension.
+
+http://bank-login-example.invalid/verify
+
+Thank you,
+Security Team
